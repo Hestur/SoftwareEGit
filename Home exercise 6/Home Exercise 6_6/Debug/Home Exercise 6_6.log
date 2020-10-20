@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Function.cpp
+C:\Users\Hest\source\repos\Home exercise 6\Home Exercise 6_6\Function.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Home Exercise 6_6.vcxproj -> C:\Users\Hest\source\repos\Home exercise 6\Debug\Home Exercise 6_6.exe

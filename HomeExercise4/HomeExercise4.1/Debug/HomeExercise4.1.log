@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Hest\source\repos\HomeExercise4\HomeExercise4.1\Source.cpp(5,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hest\source\repos\HomeExercise4\HomeExercise4.1\Source.cpp(12,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  HomeExercise4.1.vcxproj -> C:\Users\Hest\source\repos\HomeExercise4\Debug\HomeExercise4.1.exe

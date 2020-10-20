@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Hest\source\repos\HomeExercise5\HomeExercise5.2\Source.cpp(18,31): warning C4474: 'printf_s' : too many arguments passed for format string
+C:\Users\Hest\source\repos\HomeExercise5\HomeExercise5.2\Source.cpp(18,31): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  HomeExercise5.2.vcxproj -> C:\Users\Hest\source\repos\HomeExercise5\Debug\HomeExercise5.2.exe

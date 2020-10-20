@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Hest\source\repos\HomeExercise5\HomeExercise5.1\Source.cpp(23,9): warning C4101: 'list3': unreferenced local variable
+C:\Users\Hest\source\repos\HomeExercise5\HomeExercise5.1\Source.cpp(21,9): warning C4101: 'list2': unreferenced local variable
+  HomeExercise5.1.vcxproj -> C:\Users\Hest\source\repos\HomeExercise5\Debug\HomeExercise5.1.exe
