@@ -3,7 +3,7 @@ int maxValue(int* arrPtr, const int SIZE) {
 
 	int max = arrPtr[0];
 
-	for (i = 1; i < SIZE; i++)
+	for (i = 0; i < SIZE; i++)
 		if (arrPtr[i] > max)
 			max = arrPtr[i];
 
@@ -15,7 +15,7 @@ int minValue(int* arrPtr, const int SIZE) {
 
 	int min = arrPtr[0];
 
-	for (i = 1; i < SIZE; i++)
+	for (i = 0; i < SIZE; i++)
 		if (arrPtr[i] < min)
 			min = arrPtr[i];
 

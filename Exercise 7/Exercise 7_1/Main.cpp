@@ -20,7 +20,7 @@ Skriv derefter et lille testprogram (main) hvori du tester dine funktioner.
 #define SIZE 10
 
 int main(void) {
-	int arr[SIZE] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+	int arr[SIZE] = { 100, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
 	for (size_t i = 0; i < SIZE; i++)
 		printf("%d ", arr[i]);
